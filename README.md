@@ -6,6 +6,8 @@
 
 3. VSCode json 설정에서 아래 코드 추가
 
+   - json 설정 : ctrl + shift + p > settings.json (Preferences: Open User Settings)
+
 ```json
 {
     "[python]": {
