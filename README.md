@@ -11,10 +11,17 @@
 ```json
 {
     "[python]": {
-            "editor.formatOnSave": true,
-            "editor.defaultFormatter": "ms-python.black-formatter",
-        }
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "[markdown]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false
 }
+
 ```
 
 4. 가상환경 사용
