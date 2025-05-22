@@ -40,3 +40,7 @@
 - 설치된 패키지 리스트 txt 파일로 변환 : `pip freeze > requirements.txt`
 
 - 변환된 txt 파일로 패키지 설치 : `pip install -r 파일이름.txt`
+
+5. 타입 체킹
+
+- VSCode settings --> python.analysis.typeCheckingMode 
